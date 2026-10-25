@@ -32,3 +32,6 @@ Composição original, sem copiar código dos templates.
 
 ## Atualização da imagem principal
 A pedido do usuário, a foto principal foi substituída pelo anexo imgi_22_622406581_17852716326618558_1438647659865769000_n.png (mulher e peixes nas piscinas naturais). Imagem fornecida diretamente pelo usuário para essa publicação. Versão WebP otimizada incorporada somente na imagem principal; as demais fotos e o OpenGraph permanecem iguais. A legenda foi alterada para evitar atribuir autoria dessa foto ao perfil Litoral Arretado.
+
+## Atualização dos serviços
+Fotos enviadas diretamente pelo usuário em 24/10/2026 para substituir buggy (codex-clipboard-3c670fb6), piscinas naturais (imgi_19_658185979), Crôa (codex-clipboard-9b093151) e adicionar aluguel de jetski (imgi_10_799277786). Uso conforme solicitação do usuário; a marca d'água Porto do Sol da foto da Crôa foi preservada no arquivo. Sem declaração de autoria Litoral Arretado para esses anexos. Arquivos otimizados WebP. Serviço Jetski adicionado por instrução expressa, sem inventar valores ou requisitos. Galeria de painéis expansíveis inspirada na referência Creative Photographer, com controle por clique e teclado; em telas pequenas todos os serviços e botões aparecem em sequência.
