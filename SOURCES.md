@@ -29,3 +29,6 @@ Arte original existente em https://dabaphira.com.br/assets/whatsapp-original.png
 https://lovable.dev/templates/websites/landing-page/saas-landing-page
 https://lovable.dev/templates/websites/portfolio/creative-photographer
 Composição original, sem copiar código dos templates.
+
+## Atualização da imagem principal
+A pedido do usuário, a foto principal foi substituída pelo anexo imgi_22_622406581_17852716326618558_1438647659865769000_n.png (mulher e peixes nas piscinas naturais). Imagem fornecida diretamente pelo usuário para essa publicação. Versão WebP otimizada incorporada somente na imagem principal; as demais fotos e o OpenGraph permanecem iguais. A legenda foi alterada para evitar atribuir autoria dessa foto ao perfil Litoral Arretado.
